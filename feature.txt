@@ -1,0 +1,5 @@
+function ()
+{
+
+output : echo " hi is the 1st git repo
+}
